@@ -1,0 +1,6 @@
+def resta():
+    n1=int(input("Ingrese el primer número"))
+    n2=int(input("Ingrese el segundo número"))
+    print(n1 - n2)
+
+resta()
